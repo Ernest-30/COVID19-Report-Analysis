@@ -6,4 +6,4 @@ The primary objective of this project was to gain insights into the impact of CO
 
 The analysis process involved in this project includeds; exploring COVID-19 data using SQL and visualizing the results in Tableau.
 
-The data was sourced from website [Our World in Data](https://ourworldindata.org/covid-deaths), then was cleaned, transformed, and analyzed using SQL to gain insights and extract relevant information  such as the number of cases, deaths, and vaccinations, Top countries negatively impacted by the virus.
+The data was sourced from [Our World in Data](https://ourworldindata.org/covid-deaths), then was cleaned, transformed, and analyzed using SQL to gain insights and extract relevant information  such as the number of cases, deaths, and vaccinations, Top countries negatively impacted by the virus.
