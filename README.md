@@ -11,11 +11,16 @@ The data was sourced from [Our World in Data](https://ourworldindata.org/covid-d
 
 # Analysis
 
-Analysis was done on SQL (Check out the analysis here (https://github.com/Ernest-30/COVID19-Report-Analysis/blob/main/COVID19%20REPORT%20ANALYSIS.sql)) Below are the major findings and insgihts from the analysis;
+Analysis was done on SQL.
+
+Below are the major findings and insgihts from the analysis;
 
 Total Cases	- 666,878,673
+
 Total Deaths -	6,723,276
+
 Infection Percentage -	71.2%
+
 Death Percentage	 - 1.01%
 
 The highest recorded impact of the virus was in 2022, with a total death percentage of 0.27% in Europe and a record of 2,001,310 deaths. The infection rate peaked in 2023, with 33.02% of Europe reported to be infected by the virus, this about 245,913,988 of the entire Continent.
