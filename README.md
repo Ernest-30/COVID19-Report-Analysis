@@ -33,6 +33,8 @@ Over 500 million people have been vaccinated in Asia, this makes it the leading 
 
 # Visualization
 
+![image](https://user-images.githubusercontent.com/123366282/222982970-0459c4fc-63b5-4dbb-8568-58e19d79fd69.png)
+
 
 # Conclusion
 This  project demonstrates the importance of data analytics in uncovering insights and making informed decisions. With the results of the analysis, businesses, health workers, different World Governments can effectively strategize to be able to respond in an effective and efficient way to the pandemic.
