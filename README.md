@@ -11,7 +11,7 @@ The data was sourced from [Our World in Data](https://ourworldindata.org/covid-d
 
 # Analysis
 
-Analysis was done on SQL.[Analysis] (https://github.com/Ernest-30/COVID19-Report-Analysis/blob/main/COVID19%20REPORT%20ANALYSIS.sql)
+Analysis was done on SQL. [Analysis](https://github.com/Ernest-30/COVID19-Report-Analysis/blob/main/COVID19%20REPORT%20ANALYSIS.sql)
 
 Below are the major findings and insgihts from the analysis;
 
